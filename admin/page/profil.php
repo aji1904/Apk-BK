@@ -1,0 +1,1 @@
+<img src="../bootstrap/img/visi.jpeg" style="width: 100%; height: auto"/>
